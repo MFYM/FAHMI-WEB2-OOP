@@ -91,8 +91,8 @@
             }
 
             
-            $mahasiswaReguler = new MahasiswaReguler("Budi", "123456", "Teknik Informatika", 5000000);
-            $mahasiswaKIP = new MahasiswaKIP("Siti", "654321", "Sistem Informasi", 2000000);
+            $mahasiswaReguler = new MahasiswaReguler("Fahmi", "232300051", "Teknik Informatika", 5000000);
+            $mahasiswaKIP = new MahasiswaKIP("Yusuf", "232300052", "Sistem Informasi", 2000000);
 
             
             echo '<div class="col-md-6 mb-4">';
